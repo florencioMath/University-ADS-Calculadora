@@ -1,15 +1,28 @@
-# ADS-Calculador-JS
-<h1>Javascript - Calculadora com as funções básicas.</h1>
+<h1 align="center">Javascript - Calculadora com as funções básicas.</h1>
 
+## 💻 Projeto
 
-Olá, esse projeto foi feito para o curso de Análise e Desenvolvimento de Sistemas para a matéria de Resposive Web Development.
+Esse projeto foi feito para o curso de Análise e Desenvolvimento de Sistemas para a matéria de Resposive Web Development.
+Ele é uma calculadora com as operações básicas de Adição, Subtração, Multiplicação e Divisão.
+O Objetivo é demonstrar o entendimento do JavaScript em navegadores. 
 
+## 🚀 Tecnologias
 
-De uma olhada em como ficou: <br>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JAVASCRIPT
+
+## 🔖 Layout
+
+De uma olhada em como ficou na página do Github: <br>
 Page: https://1matheusflorencio.github.io/ADS-Calculadora-JS/
 
-GIF: <br>
-![Calculadora Javascript_1_1](https://user-images.githubusercontent.com/68713424/137632272-a1bd0b61-928a-47c7-b6dc-e532fbcada22.gif)
+Também um GIF: <br>
+<img src="https://raw.githubusercontent.com/1matheusflorencio/ADS-Calculadora-JS/main/imagens/README-calculadora-javascript-matheus.gif">
 
-<em>Matheus Florêncio.</em> <br>
+## 🙋‍♂️ Programador 
+
+Criado por <em>Matheus Florêncio.</em> <br>
 www.matheusflorencio.com

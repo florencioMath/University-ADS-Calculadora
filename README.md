@@ -22,6 +22,8 @@ Page: https://1matheusflorencio.github.io/ADS-Calculadora-JS/
 Também um GIF: <br>
 <img src="https://raw.githubusercontent.com/1matheusflorencio/ADS-Front-End-Calculadora/main/README%20arquivos/README-calculadora-javascript-matheus.gif">
 
+---
+
 ## 🙋‍♂️ Dev 
 
 Criado por <em>Matheus Florêncio.</em> <br>

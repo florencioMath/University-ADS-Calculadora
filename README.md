@@ -2,9 +2,11 @@
 
 ## 💻 Projeto
 
+<p align="justify">
 Esse projeto foi feito para o curso de Análise e Desenvolvimento de Sistemas para a matéria de Resposive Web Development.
 Ele é uma calculadora com as operações básicas de Adição, Subtração, Multiplicação e Divisão.
 O Objetivo é demonstrar o entendimento do JavaScript em navegadores. 
+</p>
 
 ## 🚀 Tecnologias
 
@@ -24,7 +26,7 @@ Também um GIF: <br>
 
 ---
 
-## 🙋‍♂️ Dev 
+## 👩‍💻 Dev 
 
 Criado por <em>Matheus Florêncio.</em> <br>
 www.matheusflorencio.com

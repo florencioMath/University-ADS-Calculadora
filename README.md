@@ -22,7 +22,7 @@ De uma olhada em como ficou na página do Github: <br>
 Page: https://1matheusflorencio.github.io/ADS-Calculadora-JS/
 
 Também um GIF: <br>
-<img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-Barbearia/main/README%20arquivos/screencapture-127-0-0-1-5500-index-html-2021-10-19-07_06_27.png">
+<img src="https://raw.githubusercontent.com/1matheusflorencio/ADS-Front-End-Calculadora/main/README%20arquivos/README-calculadora-javascript-matheus.gif">
 
 ---
 

@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## <a id="layout">🔖 Layout</a>
 
-De uma olhada em como ficou a página no <a href="https://1matheusflorencio.github.io/ADS-Front-End-Calculadora/" target="_blank">Github</a> <br>
+De uma olhada em como ficou a página no <a href="https://1matheusflorencio.github.io/ADS-Calculadora/" target="_blank">Github</a> <br>
 
 GIFs:
 <div align="center">

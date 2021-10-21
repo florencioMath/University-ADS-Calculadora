@@ -68,4 +68,4 @@ GIFs:
     </tr>
 </table>
 
-<p width="100%" align="end"><a href="#inicio">🔝 Clique aqui para ir ao Top da página</a></p>
+<p width="100%" align="end"><a href="#inicio">🔝 Ir para o Início</a></p>
